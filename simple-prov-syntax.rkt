@@ -1,4 +1,4 @@
-(module prov-syntax '#%kernel
+(module simple-prov-syntax '#%kernel
   (#%require (for-syntax '#%kernel))
   (#%provide (for-syntax test-func))
   (begin-for-syntax
